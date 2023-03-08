@@ -4,6 +4,7 @@ SELECTION SORT PORJESİ
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
 Aşama 1: İlk önce dizinin ikinci sayısı ile bir öndekini kıyaslıyoruz, 27 22'den büyük olduğu için sıralama değişmiyor.
 [22,27,16,2,18,6]
 
